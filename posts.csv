@@ -1,0 +1,201 @@
+post_id,brand,platform,campaign,content_type,product_category,likes,comments_count,shares,views,days_since_post
+P001,Sapphire,Instagram,Eid Collection,Product Photo,Kurti,3052,607,302,79645,5
+P002,Sapphire,Facebook,12.12 Collection,Influencer Post,Dupatta,2316,532,233,52012,7
+P003,Brand A,Facebook,12.12 Collection,Influencer Post,Dupatta,3352,331,197,73273,3
+P004,Gul Ahmed,Instagram,Winter Collection,Styling Video,Lawn Suit,2163,336,191,34297,14
+P005,Khaadi,Facebook,Winter Collection,Styling Video,Lawn Suit,1838,182,53,21981,16
+P006,Khaadi,TikTok,11.11 Sale,Influencer Post,Dupatta,5675,500,436,121158,23
+P007,Sapphire,Facebook,12.12 Collection,Product Photo,Dupatta,3507,762,256,107230,8
+P008,Sapphire,TikTok,12.12 Collection,Reel,Kurti,332,34,22,9250,29
+P009,Brand A,Facebook,Winter Collection,Influencer Post,Unstitched Suit,652,34,48,14529,26
+P010,Gul Ahmed,Facebook,11.11 Sale,Reel,Dupatta,3252,405,341,30530,12
+P011,Gul Ahmed,Instagram,12.12 Collection,Sale Announcement,Dupatta,269,24,19,6460,17
+P012,Gul Ahmed,Facebook,Winter Collection,Sale Announcement,Unstitched Suit,3159,414,122,72196,16
+P013,Sapphire,TikTok,Winter Collection,Product Photo,Dupatta,1910,139,147,12547,25
+P014,Sapphire,TikTok,Winter Collection,Product Photo,Kurti,4362,485,217,98578,25
+P015,Brand A,Instagram,11.11 Sale,Reel,Kurti,1215,96,63,27938,8
+P016,Brand A,TikTok,11.11 Sale,Reel,Unstitched Suit,3040,154,352,42696,29
+P017,Gul Ahmed,Facebook,Winter Collection,Influencer Post,Dupatta,11108,405,1475,102272,11
+P018,Khaadi,Facebook,12.12 Collection,Styling Video,Unstitched Suit,998,125,24,17227,5
+P019,Khaadi,TikTok,11.11 Sale,Styling Video,Unstitched Suit,5381,508,581,110303,12
+P020,Sapphire,Facebook,11.11 Sale,Reel,Unstitched Suit,445,66,21,5025,7
+P021,Sapphire,Instagram,Winter Collection,Influencer Post,Unstitched Suit,1629,330,94,54461,6
+P022,Gul Ahmed,TikTok,12.12 Collection,Reel,Kurti,1665,291,116,16376,21
+P023,Brand A,Instagram,Eid Collection,Product Photo,Kurti,460,81,48,4528,23
+P024,Gul Ahmed,Instagram,12.12 Collection,Styling Video,Unstitched Suit,1416,98,95,31044,22
+P025,Brand A,Facebook,12.12 Collection,Styling Video,Unstitched Suit,2668,328,157,58203,3
+P026,Khaadi,Facebook,Winter Collection,Influencer Post,Unstitched Suit,1222,178,37,10293,28
+P027,Khaadi,Facebook,Eid Collection,Reel,Unstitched Suit,4498,223,72,102848,25
+P028,Gul Ahmed,Instagram,11.11 Sale,Reel,Lawn Suit,856,104,23,7121,30
+P029,Brand A,TikTok,11.11 Sale,Product Photo,Dupatta,2079,284,56,35687,30
+P030,Brand A,Facebook,Winter Collection,Sale Announcement,Kurti,2548,515,86,67589,23
+P031,Khaadi,Instagram,12.12 Collection,Sale Announcement,Unstitched Suit,610,121,82,19088,7
+P032,Sapphire,TikTok,Eid Collection,Sale Announcement,Lawn Suit,1647,226,116,15786,22
+P033,Sapphire,Instagram,Winter Collection,Styling Video,Kurti,200,41,17,4026,4
+P034,Brand A,Facebook,Winter Collection,Influencer Post,Lawn Suit,2754,525,200,68816,23
+P035,Khaadi,TikTok,11.11 Sale,Influencer Post,Unstitched Suit,3953,580,194,81341,20
+P036,Brand A,Instagram,12.12 Collection,Sale Announcement,Unstitched Suit,3836,675,324,101154,11
+P037,Brand A,Facebook,12.12 Collection,Styling Video,Lawn Suit,3696,637,145,100597,30
+P038,Gul Ahmed,Facebook,11.11 Sale,Sale Announcement,Kurti,4765,268,317,51711,15
+P039,Brand A,TikTok,12.12 Collection,Sale Announcement,Kurti,2084,79,30,34521,23
+P040,Gul Ahmed,TikTok,Winter Collection,Styling Video,Lawn Suit,842,117,98,16317,21
+P041,Khaadi,TikTok,Winter Collection,Sale Announcement,Unstitched Suit,1465,317,197,50396,25
+P042,Sapphire,Facebook,11.11 Sale,Sale Announcement,Dupatta,968,46,94,22752,28
+P043,Brand A,TikTok,12.12 Collection,Product Photo,Dupatta,1154,189,63,18669,5
+P044,Gul Ahmed,Facebook,Eid Collection,Reel,Dupatta,1063,145,49,23848,19
+P045,Brand A,TikTok,Eid Collection,Styling Video,Kurti,4076,425,117,95418,13
+P046,Brand A,Instagram,Eid Collection,Influencer Post,Unstitched Suit,471,81,11,8388,13
+P047,Sapphire,Instagram,12.12 Collection,Reel,Kurti,505,68,11,8531,21
+P048,Gul Ahmed,TikTok,Winter Collection,Product Photo,Kurti,2991,387,146,39914,5
+P049,Sapphire,Instagram,Winter Collection,Reel,Lawn Suit,15592,884,585,217256,13
+P050,Sapphire,TikTok,11.11 Sale,Influencer Post,Lawn Suit,1860,266,176,46151,3
+P051,Gul Ahmed,Facebook,Winter Collection,Influencer Post,Dupatta,4062,617,237,35900,22
+P052,Sapphire,Facebook,12.12 Collection,Styling Video,Dupatta,6055,873,571,68636,1
+P053,Sapphire,Facebook,12.12 Collection,Sale Announcement,Lawn Suit,4445,663,475,63677,21
+P054,Gul Ahmed,Facebook,11.11 Sale,Product Photo,Lawn Suit,4640,547,80,58529,9
+P055,Khaadi,TikTok,11.11 Sale,Influencer Post,Kurti,2129,410,224,68716,10
+P056,Sapphire,TikTok,11.11 Sale,Reel,Unstitched Suit,2002,191,51,21089,14
+P057,Brand A,Instagram,12.12 Collection,Influencer Post,Lawn Suit,2306,269,167,51281,20
+P058,Brand A,TikTok,12.12 Collection,Product Photo,Dupatta,5728,676,447,109695,2
+P059,Brand A,TikTok,11.11 Sale,Sale Announcement,Kurti,3372,393,130,27943,13
+P060,Brand A,Facebook,Eid Collection,Influencer Post,Dupatta,5586,901,207,105628,17
+P061,Brand A,Facebook,Eid Collection,Product Photo,Kurti,1014,129,16,26632,1
+P062,Brand A,Instagram,Winter Collection,Product Photo,Dupatta,1121,56,33,10848,12
+P063,Sapphire,Facebook,Eid Collection,Reel,Kurti,2995,461,280,37648,5
+P064,Khaadi,TikTok,11.11 Sale,Sale Announcement,Lawn Suit,4163,230,111,60586,19
+P065,Brand A,Instagram,Eid Collection,Styling Video,Dupatta,1370,106,136,12422,17
+P066,Brand A,TikTok,Eid Collection,Sale Announcement,Dupatta,3698,738,274,64196,17
+P067,Sapphire,Instagram,Winter Collection,Reel,Kurti,3018,595,132,36513,1
+P068,Khaadi,Instagram,Eid Collection,Product Photo,Kurti,3890,283,61,86394,14
+P069,Khaadi,Facebook,Eid Collection,Sale Announcement,Dupatta,3756,388,307,41757,28
+P070,Brand A,Facebook,12.12 Collection,Reel,Dupatta,5056,845,263,71891,4
+P071,Gul Ahmed,TikTok,11.11 Sale,Reel,Kurti,2408,204,220,74993,12
+P072,Brand A,Instagram,Winter Collection,Influencer Post,Dupatta,770,68,76,20196,19
+P073,Sapphire,TikTok,12.12 Collection,Sale Announcement,Dupatta,2430,385,141,61751,18
+P074,Khaadi,TikTok,11.11 Sale,Reel,Unstitched Suit,4021,230,324,86032,1
+P075,Khaadi,Instagram,Eid Collection,Product Photo,Kurti,1647,127,105,29729,10
+P076,Brand A,Facebook,Winter Collection,Sale Announcement,Dupatta,2168,182,213,45111,24
+P077,Khaadi,Instagram,12.12 Collection,Influencer Post,Dupatta,1771,139,62,27412,3
+P078,Sapphire,Facebook,Winter Collection,Product Photo,Kurti,2237,441,251,49119,3
+P079,Khaadi,Facebook,Winter Collection,Reel,Unstitched Suit,4184,640,236,73797,1
+P080,Gul Ahmed,TikTok,12.12 Collection,Influencer Post,Dupatta,2015,146,182,21202,17
+P081,Gul Ahmed,Facebook,Eid Collection,Influencer Post,Dupatta,2416,368,38,64298,10
+P082,Khaadi,Facebook,11.11 Sale,Sale Announcement,Dupatta,4447,544,355,59118,20
+P083,Khaadi,Facebook,11.11 Sale,Styling Video,Lawn Suit,1483,58,101,29673,26
+P084,Brand A,Facebook,11.11 Sale,Influencer Post,Unstitched Suit,3845,584,515,44195,3
+P085,Gul Ahmed,TikTok,11.11 Sale,Reel,Dupatta,3334,249,196,45099,11
+P086,Brand A,Instagram,Eid Collection,Reel,Lawn Suit,3699,262,504,83461,23
+P087,Brand A,Instagram,Winter Collection,Reel,Dupatta,1863,244,90,51604,4
+P088,Khaadi,TikTok,11.11 Sale,Product Photo,Kurti,4180,174,105,79032,21
+P089,Khaadi,Facebook,Winter Collection,Sale Announcement,Dupatta,4825,737,295,109039,6
+P090,Khaadi,TikTok,Eid Collection,Reel,Dupatta,4734,316,357,51336,26
+P091,Brand A,TikTok,12.12 Collection,Product Photo,Lawn Suit,2948,686,291,72302,10
+P092,Sapphire,TikTok,Eid Collection,Reel,Unstitched Suit,4290,312,391,68520,15
+P093,Khaadi,Facebook,11.11 Sale,Sale Announcement,Dupatta,2239,238,216,67248,3
+P094,Gul Ahmed,Instagram,Eid Collection,Styling Video,Lawn Suit,1761,222,142,28417,25
+P095,Khaadi,TikTok,11.11 Sale,Styling Video,Dupatta,699,73,20,8347,20
+P096,Gul Ahmed,Instagram,12.12 Collection,Styling Video,Kurti,2416,235,264,68787,18
+P097,Khaadi,Instagram,11.11 Sale,Reel,Dupatta,139,19,11,3760,5
+P098,Brand A,TikTok,Winter Collection,Product Photo,Dupatta,3166,250,544,109113,5
+P099,Gul Ahmed,Facebook,Winter Collection,Influencer Post,Kurti,5001,249,239,65755,5
+P100,Khaadi,Facebook,Winter Collection,Reel,Unstitched Suit,3540,501,303,78250,30
+P101,Sapphire,TikTok,12.12 Collection,Reel,Unstitched Suit,4423,503,222,90464,1
+P102,Sapphire,TikTok,12.12 Collection,Styling Video,Unstitched Suit,611,49,49,4881,4
+P103,Gul Ahmed,Facebook,Eid Collection,Styling Video,Kurti,569,34,28,5551,23
+P104,Gul Ahmed,Facebook,Eid Collection,Styling Video,Kurti,3257,414,392,53859,27
+P105,Brand A,Instagram,Eid Collection,Influencer Post,Unstitched Suit,3441,490,192,102076,28
+P106,Gul Ahmed,TikTok,11.11 Sale,Reel,Kurti,4889,770,599,114966,10
+P107,Khaadi,Instagram,12.12 Collection,Sale Announcement,Unstitched Suit,277,39,20,7126,14
+P108,Brand A,Facebook,12.12 Collection,Reel,Kurti,1396,124,44,37299,6
+P109,Khaadi,Facebook,Winter Collection,Styling Video,Dupatta,1184,217,42,31796,16
+P110,Gul Ahmed,Instagram,12.12 Collection,Sale Announcement,Lawn Suit,3563,382,465,68998,18
+P111,Brand A,TikTok,Winter Collection,Product Photo,Dupatta,4704,295,244,78449,28
+P112,Sapphire,Instagram,Winter Collection,Sale Announcement,Dupatta,1156,123,37,16561,1
+P113,Sapphire,Instagram,12.12 Collection,Sale Announcement,Unstitched Suit,215,21,13,7261,22
+P114,Sapphire,Instagram,Winter Collection,Reel,Kurti,732,65,105,25398,24
+P115,Brand A,Facebook,12.12 Collection,Influencer Post,Lawn Suit,3214,239,294,56300,19
+P116,Khaadi,Facebook,Eid Collection,Reel,Kurti,579,79,93,22160,2
+P117,Sapphire,Facebook,11.11 Sale,Influencer Post,Dupatta,961,158,25,13833,4
+P118,Gul Ahmed,Facebook,11.11 Sale,Sale Announcement,Kurti,960,100,16,24513,27
+P119,Brand A,Facebook,12.12 Collection,Reel,Kurti,3069,207,198,65285,15
+P120,Khaadi,TikTok,Winter Collection,Sale Announcement,Dupatta,2550,184,189,77864,22
+P121,Sapphire,Instagram,Eid Collection,Reel,Kurti,769,115,71,11339,27
+P122,Khaadi,TikTok,Winter Collection,Influencer Post,Dupatta,3627,582,155,100448,20
+P123,Gul Ahmed,Facebook,12.12 Collection,Influencer Post,Kurti,1250,295,193,41960,29
+P124,Sapphire,TikTok,11.11 Sale,Reel,Dupatta,5196,516,124,39273,14
+P125,Brand A,Instagram,12.12 Collection,Influencer Post,Unstitched Suit,2936,371,364,42824,30
+P126,Khaadi,Facebook,Eid Collection,Influencer Post,Kurti,2285,200,43,33262,30
+P127,Gul Ahmed,Instagram,11.11 Sale,Reel,Lawn Suit,388,63,39,3227,19
+P128,Khaadi,Instagram,12.12 Collection,Sale Announcement,Dupatta,954,82,111,16946,10
+P129,Brand A,Facebook,Winter Collection,Product Photo,Lawn Suit,3030,450,300,72303,13
+P130,Khaadi,Instagram,12.12 Collection,Reel,Dupatta,1250,158,151,44801,28
+P131,Brand A,TikTok,12.12 Collection,Product Photo,Dupatta,1965,272,228,40738,15
+P132,Khaadi,Instagram,Winter Collection,Reel,Lawn Suit,2110,280,148,68353,1
+P133,Brand A,Facebook,Winter Collection,Influencer Post,Kurti,17016,627,1585,365492,27
+P134,Gul Ahmed,TikTok,11.11 Sale,Sale Announcement,Lawn Suit,2783,461,223,26683,3
+P135,Gul Ahmed,Instagram,Winter Collection,Styling Video,Unstitched Suit,4597,394,326,46317,20
+P136,Brand A,TikTok,11.11 Sale,Reel,Dupatta,3799,563,117,71603,25
+P137,Brand A,Instagram,Eid Collection,Reel,Unstitched Suit,757,71,41,17003,6
+P138,Khaadi,Facebook,11.11 Sale,Sale Announcement,Kurti,5429,477,131,48087,27
+P139,Gul Ahmed,TikTok,11.11 Sale,Sale Announcement,Kurti,2071,322,143,35508,19
+P140,Khaadi,Instagram,Eid Collection,Influencer Post,Kurti,3214,168,208,61951,27
+P141,Gul Ahmed,Instagram,Winter Collection,Sale Announcement,Lawn Suit,1854,255,36,18897,1
+P142,Sapphire,TikTok,11.11 Sale,Product Photo,Dupatta,4416,732,223,96197,18
+P143,Gul Ahmed,Instagram,Eid Collection,Influencer Post,Kurti,2399,193,105,55110,1
+P144,Khaadi,Facebook,11.11 Sale,Reel,Dupatta,1040,146,110,19023,30
+P145,Brand A,Facebook,11.11 Sale,Reel,Kurti,1610,132,155,15899,21
+P146,Khaadi,Facebook,Eid Collection,Product Photo,Unstitched Suit,479,58,66,16330,18
+P147,Gul Ahmed,Facebook,Winter Collection,Sale Announcement,Lawn Suit,1739,205,243,17992,11
+P148,Brand A,TikTok,Eid Collection,Reel,Unstitched Suit,3965,343,242,85060,7
+P149,Khaadi,Instagram,11.11 Sale,Reel,Kurti,320,62,46,9510,20
+P150,Khaadi,Instagram,Eid Collection,Product Photo,Dupatta,1043,66,106,8484,30
+P151,Sapphire,Facebook,12.12 Collection,Styling Video,Unstitched Suit,3281,284,255,40581,20
+P152,Khaadi,Facebook,12.12 Collection,Influencer Post,Dupatta,4167,448,148,98684,23
+P153,Khaadi,Instagram,Eid Collection,Influencer Post,Dupatta,2183,224,111,24932,25
+P154,Brand A,TikTok,11.11 Sale,Sale Announcement,Kurti,3223,419,439,105623,6
+P155,Khaadi,Facebook,Eid Collection,Influencer Post,Unstitched Suit,2135,187,162,38980,7
+P156,Khaadi,TikTok,Eid Collection,Sale Announcement,Dupatta,5519,808,141,41043,30
+P157,Sapphire,Instagram,Winter Collection,Influencer Post,Unstitched Suit,262,31,5,6281,28
+P158,Gul Ahmed,Instagram,11.11 Sale,Reel,Kurti,5582,747,265,45402,22
+P159,Sapphire,TikTok,Winter Collection,Influencer Post,Dupatta,5723,237,384,44485,1
+P160,Khaadi,TikTok,11.11 Sale,Reel,Lawn Suit,3561,566,463,96025,6
+P161,Sapphire,Instagram,Winter Collection,Reel,Kurti,2852,229,376,85585,23
+P162,Sapphire,TikTok,11.11 Sale,Influencer Post,Dupatta,467,41,33,9360,20
+P163,Sapphire,Facebook,Eid Collection,Reel,Lawn Suit,5093,793,366,78790,5
+P164,Khaadi,Instagram,11.11 Sale,Influencer Post,Unstitched Suit,4288,187,74,44694,6
+P165,Khaadi,Instagram,12.12 Collection,Influencer Post,Kurti,2630,135,83,27368,17
+P166,Brand A,Facebook,Eid Collection,Product Photo,Unstitched Suit,3166,446,362,32255,7
+P167,Sapphire,Facebook,Eid Collection,Reel,Kurti,4698,829,163,131416,10
+P168,Khaadi,Facebook,12.12 Collection,Sale Announcement,Lawn Suit,3329,478,48,32078,10
+P169,Brand A,Facebook,12.12 Collection,Sale Announcement,Dupatta,2157,203,59,52986,11
+P170,Gul Ahmed,Instagram,Winter Collection,Styling Video,Dupatta,3773,408,239,48928,25
+P171,Sapphire,Facebook,Winter Collection,Styling Video,Dupatta,3533,384,282,35346,12
+P172,Brand A,TikTok,11.11 Sale,Sale Announcement,Dupatta,848,101,53,12214,30
+P173,Sapphire,Instagram,Winter Collection,Influencer Post,Kurti,1784,267,124,38828,22
+P174,Sapphire,Facebook,11.11 Sale,Styling Video,Dupatta,2885,162,186,42463,14
+P175,Brand A,TikTok,Winter Collection,Reel,Kurti,278,32,4,2440,21
+P176,Sapphire,Facebook,11.11 Sale,Styling Video,Kurti,269,68,32,3112,29
+P177,Gul Ahmed,TikTok,Winter Collection,Influencer Post,Lawn Suit,8616,250,410,180380,24
+P178,Brand A,Instagram,Eid Collection,Sale Announcement,Unstitched Suit,1460,132,185,15959,4
+P179,Gul Ahmed,Instagram,12.12 Collection,Styling Video,Lawn Suit,1495,179,152,25352,17
+P180,Sapphire,Instagram,Eid Collection,Influencer Post,Lawn Suit,1732,122,41,41533,24
+P181,Gul Ahmed,TikTok,12.12 Collection,Styling Video,Dupatta,2064,136,82,49231,25
+P182,Gul Ahmed,TikTok,11.11 Sale,Reel,Unstitched Suit,662,75,82,10573,6
+P183,Gul Ahmed,Instagram,Eid Collection,Reel,Kurti,1812,254,254,66003,7
+P184,Brand A,Instagram,12.12 Collection,Sale Announcement,Kurti,2062,197,67,27106,9
+P185,Gul Ahmed,TikTok,Eid Collection,Sale Announcement,Kurti,3549,695,420,82243,11
+P186,Sapphire,Facebook,11.11 Sale,Product Photo,Kurti,1985,223,142,52423,8
+P187,Brand A,Facebook,Winter Collection,Reel,Unstitched Suit,2848,270,229,65142,24
+P188,Gul Ahmed,Instagram,11.11 Sale,Influencer Post,Dupatta,999,111,102,18063,3
+P189,Khaadi,Instagram,11.11 Sale,Styling Video,Unstitched Suit,3234,484,200,71394,30
+P190,Gul Ahmed,Facebook,Winter Collection,Product Photo,Kurti,1276,196,161,39000,30
+P191,Khaadi,Instagram,Eid Collection,Influencer Post,Kurti,1700,205,94,37065,18
+P192,Gul Ahmed,Facebook,Winter Collection,Product Photo,Kurti,4606,929,267,66233,12
+P193,Sapphire,Facebook,Winter Collection,Reel,Lawn Suit,577,51,40,6072,18
+P194,Khaadi,Facebook,Eid Collection,Product Photo,Lawn Suit,2072,185,238,57743,1
+P195,Gul Ahmed,Facebook,Winter Collection,Styling Video,Unstitched Suit,5110,711,183,104794,30
+P196,Sapphire,Instagram,11.11 Sale,Product Photo,Kurti,4085,182,364,68274,24
+P197,Khaadi,TikTok,11.11 Sale,Sale Announcement,Kurti,915,53,74,11753,2
+P198,Brand A,Instagram,Winter Collection,Reel,Unstitched Suit,1265,178,68,25274,20
+P199,Gul Ahmed,TikTok,12.12 Collection,Reel,Kurti,4391,231,420,95378,14
+P200,Sapphire,Facebook,Winter Collection,Styling Video,Unstitched Suit,3979,595,391,65697,26
